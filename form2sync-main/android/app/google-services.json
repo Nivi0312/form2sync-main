@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768138818511",
+    "project_id": "form2sync",
+    "storage_bucket": "form2sync.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768138818511:android:33937ce1db974a50a4d8ba",
+        "android_client_info": {
+          "package_name": "com.form2syncapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzn3na-iBRkEWdXY27y04JXj3kLjvdO-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
